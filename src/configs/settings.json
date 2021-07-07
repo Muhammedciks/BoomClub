@@ -1,7 +1,7 @@
 {
   "mongoURL": "mongodb+srv://yasin:yasin31ci@cluster0.52m9n.gcp.mongodb.net/rynixcode?retryWrites=true&w=majority",
   "clientID": "841337118713577522",
-  "token": "ODQxMzMODQxMzM3MTE4NzEzNTc3NTIy.YJlSQA.sHLruMcXiClG5aNLZPrmI2XEN3I",
+  "token": "",
   "secret": "Wfswx97bmiWyZe5GtXaD8CZPahH5Z16x",
   "callbackURL": "https://rynixcode.cf/callback"
 }
